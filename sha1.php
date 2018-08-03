@@ -21,6 +21,6 @@ if($senha != ""){
 		<input type="text" name="login" />
 		<input type="password" name="senha" />
 		<input type="submit" />
-	</form:
+	</form>
 </body>
 </html>
